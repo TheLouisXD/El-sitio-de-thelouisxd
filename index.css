@@ -1,0 +1,24 @@
+.container{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links{
+    font-size: large;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+footer{
+    position: fixed;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
